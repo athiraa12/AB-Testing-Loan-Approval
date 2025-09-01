@@ -31,6 +31,9 @@ The dataset contains user-level campaign interaction details:
 * **p-value**: 0.68
 * **Conclusion**: Fail to reject null hypothesis → No statistically significant difference in approval rates between Campaign A and Campaign B.
 
+## Approval Rate Comparison
+![Approval Rate Chart](images/approval-rate-comparision.png)
+
 ##  Tech Stack
 
 * **Python** (pandas, numpy, scipy, matplotlib)
